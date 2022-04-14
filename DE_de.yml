@@ -1,0 +1,16 @@
+Warp:
+  prefix: §8[§6Warp§8]
+  create: '%PREFIX% §aYou have create a Warp with the name '
+  delete: '%PREFIX% §cYou have delete a Warp with the name'
+  update: '%PREFIX% §bA new Update version is Online '
+  setwarp: '%PREFIX% §aYou have change the Postion of the Warp'
+  exist: '%PREFIX% §bThere is already a warp with that name'
+  worlddoesnotexist: '%PREFIX% §bThe world name deesn´t exist'
+  warpdoesnotexist: '%PREFIX% §bThe warp deesn´t exist'
+  teleport: '%PREFIX% §bYou were teleported to the warp '
+  messagetimer: '%PREFIX% §bYou will be teleported to the warp in %TIMER% seconds'
+  setpermission: '%PREFIX% §cYou have change the Permission of the Warp'
+  helpmessage: '%PREFIX%  §cPlease use /warp warpname'
+  setPermissionHelpmessage: '%PREFIX%  §cPlease use /setpermission <Warpname>'
+Perms:
+  noperms: '%PREFIX% §cYou don´t have the Permission to use this'
